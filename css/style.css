@@ -1964,3 +1964,11 @@ a {
 .w3-hover-border-pale-blue:hover {
     border-color: #e7ffff !important
 }
+
+.w3-opacity-min {
+    opacity: 0.75;
+}
+
+.bgimg-3 {background-attachment: fixed!important; background-position: center; background-repeat: no-repeat; background-size: cover;}
+
+.bgimg-3 {background-image: url("/Presentation-RebootCamp/img/pong.jpeg"); min-height: 270px;}
